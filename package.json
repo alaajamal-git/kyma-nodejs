@@ -1,0 +1,19 @@
+{
+  "name": "kyma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/kymaNody.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaajamal-git/kyma-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaajamal-git/kyma-nodejs/issues"
+  },
+  "homepage": "https://github.com/alaajamal-git/kyma-nodejs#readme"
+}
